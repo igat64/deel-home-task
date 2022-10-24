@@ -84,7 +84,7 @@ app.post('/jobs/:jobId/pay', getProfile, async (req, res) => {
   }
 })
 
-app.post('/balances/deposit/:userId ', getProfile, async (req, res) => {
+app.post('/balances/deposit/:userId', getProfile, async (req, res) => {
   // TODO: Implement me
   // Wasn't able to implement within the given time constrain
 })

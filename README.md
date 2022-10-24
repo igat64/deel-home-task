@@ -1,6 +1,11 @@
 # DEEL BACKEND TASK
 
-  
+TODOS:
+- implement /balances/deposit/:userId
+- apply request validation
+- add global error handler
+- extract and separate routes
+- db indexes?
 
 💫 Welcome! 🎉
 
